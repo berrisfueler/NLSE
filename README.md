@@ -1,5 +1,9 @@
-# NLSE
-Animal Crossing: New Leaf Save Editor
+# ACNL : Swiss Knife
+
+Fork of kwsch's original NLSE project, hopefully making it work with the Welcome Amiibo update!
+
+TODO: Get shit together and rewrite all of this.
+
 
 Edits savedata with the same functions as the [web-js editor](http://usuaris.tinet.cat/mark/acnl_editor/) and more.
 
