@@ -1,6 +1,7 @@
 # ACNL : Swiss Knife
 
-Fork of kwsch's original NLSE project, hopefully making it work with the Welcome Amiibo update!
+WIP Fork of [kwsch's original NLSE project](https://github.com/kwsch/NLSE), plus a desktop port of [MarcRobledo's WebJS save editor](http://www.marcrobledo.com/apps/acnl-editor/) hopefully making it work with the newest "Welcome Amiibo" update!
+
 
 TODO: Get shit together and rewrite all of this.
 
